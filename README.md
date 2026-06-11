@@ -1,6 +1,6 @@
 # Hi, I'm Nirmaan
  
-Fullstack developer and T Level Digital student, currently working at **Reading Borough Council** building and maintaining components for a live public-sector website.
+Fullstack developer and IT Intern, currently working at **Reading Borough Council** building and maintaining components for a live public-sector website.
  
 ---
  
