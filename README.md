@@ -23,5 +23,3 @@ Fullstack developer and IT Intern, currently working at **Reading Borough Counci
 - 💼 [LinkedIn](https://linkedin.com/in/nirmaan-shamas)
  
 ---
- 
-*Currently open to Software Engineering & IT degree apprenticeships.*
