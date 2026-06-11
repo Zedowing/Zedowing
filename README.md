@@ -20,7 +20,7 @@ Fullstack developer and IT Intern, currently working at **Reading Borough Counci
  
 ### 🔗 Links
  
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+- 💼 [LinkedIn](https://linkedin.com/in/nirmaan-shamas)
  
 ---
  
