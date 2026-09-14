@@ -25,7 +25,7 @@ Full-stack developer creating fun projects.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zedowing/Zedowing/blob/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zedowing/Zedowing/blob/output/snake-light.svg">
-  <img alt="snake animation" src="https://github.com/Zedowing/Zedowing/blob/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zedowing/Zedowing/blob/output/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zedowing/Zedowing/blob/output/breakout-light.svg">
+  <img alt="breakout animation" src="https://github.com/Zedowing/Zedowing/blob/output/breakout-light.svg">
 </picture>
