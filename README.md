@@ -3,7 +3,7 @@ Full-stack developer creating fun projects.
 ---
 
 ![Nirmaan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zedowing&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedowing&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zedowing&layout=compact)
 
 ---
 
