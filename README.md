@@ -25,7 +25,7 @@ Full-stack developer creating fun projects.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedowing/Zedowing/output/images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zedowing/Zedowing/output/images/breakout-light.svg">
-  <img alt="breakout animation" src="https://raw.githubusercontent.com/Zedowing/Zedowing/output/images/breakout-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedowing/Zedowing/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zedowing/Zedowing/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zedowing/Zedowing/output/pacman-contribution-graph.svg">
 </picture>
