@@ -2,8 +2,8 @@ Full-stack developer creating fun projects.
 
 ---
 
-![Nirmaan's GitHub stats](https://github-readme-stats-eta-six-78.vercel.app/api?username=Zedowing&show_icons=true&theme=default&cache_seconds=1)
-![Top Langs](https://github-readme-stats-eta-six-78.vercel.app/api/top-langs/?username=Zedowing&layout=compact)
+![Nirmaan's GitHub stats](https://github-readme-stats-eta-six-78.vercel.app/api?username=Zedowing&show_icons=true&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&cache_seconds=1)
+![Top Langs](https://github-readme-stats-eta-six-78.vercel.app/api/top-langs/?username=Zedowing&layout=compact&bg_color=000000&title_color=a855f7&text_color=ffffff)
 
 ---
 
