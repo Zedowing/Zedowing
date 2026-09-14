@@ -24,6 +24,8 @@ Full-stack developer creating fun projects.
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Zedowing/Zedowing/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zedowing/Zedowing/blob/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zedowing/Zedowing/blob/output/snake-light.svg">
+  <img alt="snake animation" src="https://github.com/Zedowing/Zedowing/blob/output/snake-dark.svg">
+</picture>
