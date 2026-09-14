@@ -2,6 +2,11 @@ Full-stack developer creating fun projects.
 
 ---
 
+![Nirmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zedowing&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedowing&layout=compact)
+
+---
+
 ### 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
