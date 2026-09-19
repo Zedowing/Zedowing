@@ -1,4 +1,4 @@
-Full-stack developer creating fun projects.
+**Full-stack developer creating fun projects.**
 
 ---
 
