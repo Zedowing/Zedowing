@@ -2,9 +2,6 @@
 
 ---
 
-![Nirmaan's GitHub stats](https://github-readme-stats-eta-six-78.vercel.app/api?username=Zedowing&show_icons=true&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7&cache_seconds=1)
-![Top Langs](https://github-readme-stats-eta-six-78.vercel.app/api/top-langs/?username=Zedowing&layout=compact&bg_color=000000&title_color=a855f7&text_color=ffffff)
-
 ---
 
 ### 🛠 Tech Stack
@@ -28,9 +25,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zedowing/Zedowing/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zedowing/Zedowing/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zedowing/Zedowing/output/pacman-contribution-graph.svg">
-</picture>
